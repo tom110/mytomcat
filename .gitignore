@@ -7,6 +7,12 @@
 # BlueJ files
 *.ctxt
 
+# dirs
+/out
+/.idea
+
+mytomcat.iml
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
