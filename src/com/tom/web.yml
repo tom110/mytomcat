@@ -1,0 +1,5 @@
+web-app:
+  servlet:
+    myservlet: com.tom.servlet.impl.MyServlet
+  servlet-mapping:
+    myservlet: /index
