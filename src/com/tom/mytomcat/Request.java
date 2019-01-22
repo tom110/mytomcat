@@ -28,6 +28,10 @@ public class Request {
         return parameter;
     }
 
+    public String getParameter(String name){
+        return attribute.get(name);
+    }
+
     public void setParameter(String parameter) {
         this.parameter = parameter;
     }
